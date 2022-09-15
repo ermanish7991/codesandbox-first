@@ -1,0 +1,23 @@
+.sidebarWrapper {
+  position: absolute;
+  width: 100%;
+}
+
+.sidebar {
+  float: right;
+  width: 50%;
+  height: 100vh;
+  overflow-y: scroll;
+  background: #000;
+}
+
+.backButton {
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.backAndCancel {
+  display: flex;
+  justify-content: space-between;
+}

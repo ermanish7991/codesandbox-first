@@ -1,0 +1,14 @@
+.App {
+  background: #efefef;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.selectLensesButton {
+  background: #000;
+  color: #fff;
+  position: absolute;
+  z-index: 999999;
+}
